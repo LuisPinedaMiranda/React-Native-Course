@@ -1,6 +1,7 @@
 import { router } from "expo-router";
 import styled from "styled-components/native";
 export default function Componente(){
+
 return (
   <Container>
     <Icon source="https://i.ibb.co/93GxJ0R8/medida.png"/>
